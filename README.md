@@ -1,4 +1,4 @@
-### Hello! My name is Mayara Plaza 👋
+### ✨ Hello! My name is Mayara Plaza 🌸
 I'm a front-end Developer working in Brasil, São Paulo.
 
 Apaixonada em tecnologia, programação e aprender coisas novas. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focado na stack de VueJs e NodeJS, aprendendo através de cursos, workshops, freelance, eventos, e projetos pessoais.
@@ -9,10 +9,11 @@ Apaixonada em tecnologia, programação e aprender coisas novas. Gosto muito de 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraplaza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="May-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Uly-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
 
 ##

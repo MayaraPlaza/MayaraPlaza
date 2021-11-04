@@ -1,5 +1,5 @@
 ### Hello! 👋
-#######I'm a front-end Developer working in Brasil, São Paulo.
+I'm a front-end Developer working in Brasil, São Paulo.
 <!--
 <div align="center">
   <a href="https://github.com/mayaraplaza">

@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! My name is Mayara Plaza 👋
 I'm a front-end Developer working in Brasil, São Paulo.
 
 <div align="center">

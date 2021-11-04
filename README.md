@@ -1,6 +1,8 @@
 ### Hello! My name is Mayara Plaza 👋
 I'm a front-end Developer working in Brasil, São Paulo.
 
+Apaixonada em tecnologia, programação e aprender coisas novas. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focado na stack de VueJs e NodeJS, aprendendo através de cursos, workshops, freelance, eventos, e projetos pessoais.
+
 <div align="center">
   <a href="https://github.com/mayaraplaza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

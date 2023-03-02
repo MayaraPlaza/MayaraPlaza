@@ -1,34 +1,57 @@
 ### ✨ Hello! My name is Mayara Plaza 🌸
 I'm a front-end Developer working in Brasil, São Paulo.
 
-Apaixonada em tecnologia, programação e aprender coisas novas. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focado na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
+[![Blog](https://img.shields.io/website?label=mayaraplaza.com&style=for-the-badge&url=https://www.linkedin.com/in/mayaraplaza/)](https://www.linkedin.com/in/mayaraplaza/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyplaza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lelloplaza)
+<a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href = "maah.cristiny@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
+Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
+
+
+🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.<br/>
+🎓 &nbsp; Estudando Analise e desenvolvimento de sistemas na UNINOVE (ultimo semestre)<br/>
+🌱  Experiência de 1 ano e 4 meses desenvolvendo aplicações financeiras na Ativa Investimentos, Desenvolvendo em HTML, CSS, Bootstrap, JavaScript e focada no framework VueJs, mas também me mantenho atualizada a outros frameworks do mercado como React, também tenho conhecimento em banco de dados e integração com API, familiaridade com metodologias ágeis como Scrum e controle de versão (Git e TFS). Aberta para aprender outras linguagens e trabalhar em outras áreas da tecnologia.<br/> <br/>
 
 <div align="center">
   <a href="https://github.com/mayaraplaza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraplaza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="May-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Uly-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- </div>
+
+  
+  ## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
+
+## Tecnologias que eu estou aprendendo
+
+<div style="display: inline_block">
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+</div><br/>
+
+## Ferramentas de Desenvolvimento 
+
+<div style="display: inline_block">
+  <img align="center" alt="code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img align="center" alt="code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div><br/>
 
 ##
  
 <div> 
   	
-  <a href="https://instagram.com/macristinee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- 	<a href="https://criarmeulink.com.br/u/1656528359"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
-  <a href = "maah.cristiny@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mayaraplaza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-
-   
   ![Snake animation](https://github.com/EduardoAlphonse/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
  
  

@@ -2,8 +2,8 @@
 I'm a front-end Developer working in Brasil, São Paulo.
 
 [![Blog](https://img.shields.io/website?label=mayaraplaza.com&style=for-the-badge&url=https://www.linkedin.com/in/mayaraplaza/)](https://www.linkedin.com/in/mayaraplaza/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyplaza/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lelloplaza)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraplaza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee)
 <a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href = "maah.cristiny@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 

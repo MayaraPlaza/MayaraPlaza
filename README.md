@@ -14,11 +14,7 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 🎓 &nbsp; Estudando Analise e desenvolvimento de sistemas na UNINOVE (ultimo semestre)<br/>
 🌱  Experiência de 1 ano e 4 meses desenvolvendo aplicações financeiras na Ativa Investimentos, Desenvolvendo em HTML, CSS, Bootstrap, JavaScript e focada no framework VueJs, mas também me mantenho atualizada a outros frameworks do mercado como React, também tenho conhecimento em banco de dados e integração com API, familiaridade com metodologias ágeis como Scrum e controle de versão (Git e TFS). Aberta para aprender outras linguagens e trabalhar em outras áreas da tecnologia.<br/> <br/>
 
-<div align="center">
-  <a href="https://github.com/mayaraplaza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraplaza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![mayaraplaza GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&theme=dracula&count_private=true)
 
   
   ## Tecnologias que eu uso no meu dia

@@ -16,6 +16,8 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 
 ![mayaraplaza GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&theme=dracula&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
+
   
   ## Tecnologias que eu uso no meu dia
 

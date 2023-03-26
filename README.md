@@ -1,7 +1,6 @@
 ### ✨ Hello! My name is Mayara Plaza 🌸
 I'm a front-end Developer working in Brasil, São Paulo.
 
-[![Blog](https://img.shields.io/website?label=mayaraplaza.com&style=for-the-badge&url=https://www.linkedin.com/in/mayaraplaza/)](https://www.linkedin.com/in/mayaraplaza/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraplaza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee)
 <a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -10,13 +9,14 @@ I'm a front-end Developer working in Brasil, São Paulo.
 Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
 
 
-🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.<br/>
-🎓 &nbsp; Estudando Analise e desenvolvimento de sistemas na UNINOVE (ultimo semestre)<br/>
-🌱  Experiência de 1 ano e 4 meses desenvolvendo aplicações financeiras na Ativa Investimentos, Desenvolvendo em HTML, CSS, Bootstrap, JavaScript e focada no framework VueJs, mas também me mantenho atualizada a outros frameworks do mercado como React, também tenho conhecimento em banco de dados e integração com API, familiaridade com metodologias ágeis como Scrum e controle de versão (Git e TFS). Aberta para aprender outras linguagens e trabalhar em outras áreas da tecnologia.<br/> <br/>
+🎓 &nbsp; Estudando Analise e desenvolvimento de sistemas na UNINOVE (ultimo semestre) + ganhei uma bolsa pela mesma universidade e inicio em 06/2023 Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
+:speech_balloon: &nbsp; Participei com o time de UI/UX no projeto de rebranding da Ativa Investimentos, com protótipos usando AdobeXD e Figma para desenvolver um novo tema com novos recursos para a área logada e site institucional para melhorar a experiência do usuário.<br/>
+:books: &nbsp; Utilizei HTML5, CSS3 e JavaScript (TypeScript), lógica de Programação com foco no VueJs, para contribuir na sustentação do ambiente da empresa, fazendo melhorias e correções de bugs.<br/>
+:globe_with_meridians: &nbsp; Tenho experiência em integrações de API REST, banco de dados (SQL e MongoDB), além de realizar testes de integração após o desenvolvimento.<br/>
+:calling: &nbsp; Durante o estágio, eu acompanhei os desenvolvedores mobile e fiz cursos sobre Dart e Flutter para ajudar na resolução de problemas. <br/>
+:bulb: &nbsp; Utilizávamos Scrum e Kanban como métodos Ágeis, aprendi a importância da comunicação constante e da identificação de pontos de melhoria. Isso me permitiu propor soluções para os desafios enfrentados durante o processo de desenvolvimento, por meio de reuniões diárias, de refinamento, retrospectivas e planejamentos.
 
-![mayaraplaza GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&theme=dracula&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&include_all_commits=true&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraplaza&langs-count=16&layout=compact&theme=dracula"/>
 
   
   ## Tecnologias que eu uso no meu dia

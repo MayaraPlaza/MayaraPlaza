@@ -1,10 +1,11 @@
-### ✨ Hello! My name is Mayara Plaza 🌸
-I'm a front-end Developer working in Brasil, São Paulo.
+<div align="center">
+<h2>✨ Hello! My name is Mayara Plaza 🌸</br></h2>
+I'm a front-end Developer working in Brasil, São Paulo.</br></br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraplaza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee)
 <a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
+ </div>
 
 Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
 
@@ -16,6 +17,7 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 :calling: &nbsp; Durante o estágio, eu acompanhei os desenvolvedores mobile e fiz cursos sobre Dart e Flutter para ajudar na resolução de problemas. <br/>
 :bulb: &nbsp; Utilizávamos Scrum e Kanban como métodos Ágeis, aprendi a importância da comunicação constante e da identificação de pontos de melhoria. Isso me permitiu propor soluções para os desafios enfrentados durante o processo de desenvolvimento, por meio de reuniões diárias, de refinamento, retrospectivas e planejamentos.
 
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&include_all_commits=true&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraplaza&langs-count=16&layout=compact&theme=dracula"/>
 
   
@@ -61,10 +63,10 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 </div><br/>
 
 ##
- 
+
 <div> 
   	
   ![Snake animation](https://github.com/EduardoAlphonse/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
  
- 
+  </div>
 </div>

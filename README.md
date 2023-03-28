@@ -18,7 +18,7 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 :bulb: &nbsp; Utilizávamos Scrum e Kanban como métodos Ágeis, aprendi a importância da comunicação constante e da identificação de pontos de melhoria. Isso me permitiu propor soluções para os desafios enfrentados durante o processo de desenvolvimento, por meio de reuniões diárias, de refinamento, retrospectivas e planejamentos.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaraplaza&show_icons=true&include_all_commits=true&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraplaza&langs-count=16&layout=compact&theme=dracula"/>
+
 
   
   ## Tecnologias que eu uso no meu dia

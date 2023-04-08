@@ -42,7 +42,7 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
   
 </div><br/>
 
-## Tecnologias que eu estou aprendendo
+## Tecnologias que eu quero aprender e estou estudando
 
 <div style="display: inline_block">
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />

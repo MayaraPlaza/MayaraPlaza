@@ -14,7 +14,6 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 :speech_balloon: &nbsp; Participei com o time de UI/UX no projeto de rebranding da Ativa Investimentos, com protótipos usando AdobeXD e Figma para desenvolver um novo tema com novos recursos para a área logada e site institucional para melhorar a experiência do usuário.<br/>
 :books: &nbsp; Utilizei HTML5, CSS3 e JavaScript (TypeScript), lógica de Programação com foco no VueJs, para contribuir na sustentação do ambiente da empresa, fazendo melhorias e correções de bugs.<br/>
 :globe_with_meridians: &nbsp; Tenho experiência em integrações de API REST, banco de dados (SQL e MongoDB), além de realizar testes de integração após o desenvolvimento.<br/>
-:calling: &nbsp; Durante o estágio, eu acompanhei os desenvolvedores mobile e fiz cursos sobre Dart e Flutter para ajudar na resolução de problemas. <br/>
 :bulb: &nbsp; Utilizávamos Scrum e Kanban como métodos Ágeis, aprendi a importância da comunicação constante e da identificação de pontos de melhoria. Isso me permitiu propor soluções para os desafios enfrentados durante o processo de desenvolvimento, por meio de reuniões diárias, de refinamento, retrospectivas e planejamentos.
 
 <div align="center">

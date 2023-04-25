@@ -1,7 +1,5 @@
 <div align="center">
- 
- 
- 
+
 <h2>✨ Hello! My name is Mayara Plaza 🌸  </br></h2>
 
 

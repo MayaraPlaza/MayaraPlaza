@@ -9,7 +9,7 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
 
  </div>
 
-Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais.
+Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais. 
 
 
 🎓&nbsp; Estudando Analise e desenvolvimento de sistemas na UNINOVE (ultimo semestre) + ganhei uma bolsa pela mesma universidade e inicio em 06/2023 Gestão em técnologia da informação com previsão de formação 12/2025 <br/>

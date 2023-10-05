@@ -47,7 +47,7 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  </div><br/>
-
+ 
 ## Ferramentas de Desenvolvimento:
 
 <div style="display: inline_block">

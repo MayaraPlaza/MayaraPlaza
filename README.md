@@ -17,7 +17,6 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
 :books: &nbsp; Utilizei HTML5, CSS3 e JavaScript (TypeScript), lógica de Programação com foco no VueJs, para contribuir na sustentação do ambiente da empresa, fazendo melhorias e correções de bugs.<br/>
 :globe_with_meridians: &nbsp; Tenho experiência em integrações de API REST, banco de dados (SQL e MongoDB), além de realizar testes de integração após o desenvolvimento.<br/>
 :bulb: &nbsp; Utilizávamos Scrum e Kanban como métodos Ágeis, aprendi a importância da comunicação constante e da identificação de pontos de melhoria. Isso me permitiu propor soluções para os desafios enfrentados durante o processo de desenvolvimento, por meio de reuniões diárias, de refinamento, retrospectivas e planejamentos.
-
 <div align="center">
 
 
@@ -37,16 +36,8 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
   <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img align="center" alt="Microsoft_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-  
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
 </div><br/>
- 
- ## Tecnologias que eu estou aprendendo/estudando atualmente: 
-   <div style="display: inline_block">
-   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
- </div><br/>
  
 ## Ferramentas de Desenvolvimento:
 
@@ -57,9 +48,4 @@ Apaixonada em tecnologia, programação e por mudar a vida das pessoas através 
   <img align="center" alt="code" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div><br/>
 
-<div> 
-  	
-  ![Snake animation](https://github.com/EduardoAlphonse/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
 </div>

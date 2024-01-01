@@ -10,7 +10,7 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
  </div> 
 
 Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais. 
-
+  
 
 🎓&nbsp; Formada em Analise e desenvolvimento de sistemas na UNINOVE (ultimo semestre) + ganhei uma bolsa pela mesma universidade e em 06/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
 :speech_balloon: &nbsp; Participei com o time de UI/UX no projeto de rebranding da Ativa Investimentos, com protótipos usando AdobeXD e Figma para desenvolver um novo tema com novos recursos para a área logada e site institucional para melhorar a experiência do usuário.<br/>

@@ -7,7 +7,7 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee)
 <a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
- </div> 
+ </div>  
 
 Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais. 
   

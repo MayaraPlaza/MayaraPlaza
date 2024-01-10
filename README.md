@@ -5,11 +5,9 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraplaza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee)
-<a href="https://api.whatsapp.com/send?phone=5511942664142"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
  </div>  
 
-Apaixonada em tecnologia, programação e por mudar a vida das pessoas através da programação. Gosto muito de construir, criar e encontrar soluções e ajudar pessoas. Focada na stack de VueJs e ReactJs, aprendendo através de cursos, workshops, freelance, eventos, estagio e projetos pessoais. 
+Sou uma desenvolvedora front-end apaixonada por transformar designs criativos em experiências interativas e funcionais na web. Desenvolvendo desde 2021, tenho habilidades sólidas em HTML, CSS e JavaScript, trabalhando para criar interfaces responsivas e atraentes. Meu foco está na usabilidade e na criação de experiências intuitivas para os usuários, implementando as melhores práticas de design e colaborando estreitamente com equipes de design e back-end para alcançar resultados.
   
 
 🎓&nbsp; Formada em Analise e desenvolvimento de sistemas na UNINOVE e em 06/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>

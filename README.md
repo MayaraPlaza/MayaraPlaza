@@ -7,15 +7,12 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee)
  </div>  
 
-Sou uma desenvolvedora front-end apaixonada por transformar designs criativos em experiências interativas e funcionais na web. Desenvolvendo desde 2021, tenho habilidades sólidas em HTML, CSS e JavaScript, trabalhando para criar interfaces responsivas e atraentes. Meu foco está na usabilidade e na criação de experiências intuitivas para os usuários, implementando as melhores práticas de design e colaborando estreitamente com equipes de design e back-end para alcançar resultados.
+Sou uma <strong>desenvolvedora front-end</strong> apaixonada por transformar designs criativos em experiências interativas e funcionais na web. Desenvolvendo desde 2021, tenho habilidades sólidas em <strong>HTML, CSS, JavaScript e frameworks como Vuejs e ReactJs</strong>, sempre trabalhando para criar <strong>interfaces responsivas e atraentes</strong>. Meu foco está na usabilidade e na criação de experiências intuitivas para os usuários, implementando as melhores práticas de SEO, design e colaborando estreitamente com equipes de design e back-end para alcançar resultados.
   
+<br>
+🎓&nbsp; Formada desde 06/2023 em Analise e desenvolvimento de sistemas na UNINOVE e em 07/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
 
-🎓&nbsp; Formada em Analise e desenvolvimento de sistemas na UNINOVE e em 06/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
-:speech_balloon: &nbsp; Participei com o time de UI/UX no projeto de rebranding da Ativa Investimentos, com protótipos usando AdobeXD e Figma para desenvolver um novo tema com novos recursos para a área logada e site institucional para melhorar a experiência do usuário.<br/>
-:books: &nbsp; Utilizei HTML5, CSS3 e JavaScript (TypeScript), lógica de Programação com foco no VueJs, para contribuir na sustentação do ambiente da empresa, fazendo melhorias e correções de bugs.<br/>
-:globe_with_meridians: &nbsp; Tenho experiência em integrações de API REST, banco de dados (SQL e MongoDB), além de realizar testes de integração após o desenvolvimento.<br/>
-:bulb: &nbsp; Utilizávamos Scrum e Kanban como métodos Ágeis, aprendi a importância da comunicação constante e da identificação de pontos de melhoria. Isso me permitiu propor soluções para os desafios enfrentados durante o processo de desenvolvimento, por meio de reuniões diárias, de refinamento, retrospectivas e planejamentos.
-<div align="center">
+
 
 
   

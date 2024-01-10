@@ -11,7 +11,7 @@ Sou uma <strong>desenvolvedora front-end</strong> apaixonada por transformar des
   
 <br>
 🎓&nbsp; Formada desde 06/2023 em Analise e desenvolvimento de sistemas na UNINOVE e em 07/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
-
+💻 Tenho experiência sólida no desenvolvimento front-end de aplicações financeiras, adquirida durante meu tempo na Ativa Investimentos. Durante esse período, trabalhei de forma colaborativa e proativa para criar soluções eficientes e inovadoras no campo financeiro, contribuindo para aprimorar sistemas e proporcionar uma experiência de usuário aprimorada. Meu envolvimento incluiu a implementação de funcionalidades cruciais para otimizar processos e garantir a segurança das transações financeiras.
 
 
 
@@ -35,8 +35,7 @@ Sou uma <strong>desenvolvedora front-end</strong> apaixonada por transformar des
 
 ## Plataformas de ecommerce:
   <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img align="center" alt="Vtex" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/VTEX_Logo.svg" style="max-widht:50px" />
-
+  
 ## Ferramentas de Desenvolvimento & Gerenciamento de projetos:
 
 <div style="display: inline_block">

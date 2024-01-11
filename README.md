@@ -11,8 +11,8 @@ Sou uma <strong>desenvolvedora front-end</strong> apaixonada por transformar des
   
 <br>
 🎓&nbsp; Formada desde 06/2023 em Analise e desenvolvimento de sistemas na UNINOVE e em 07/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
-💻 Tenho experiência sólida no desenvolvimento front-end de aplicações financeiras, adquirida durante meu tempo na Ativa Investimentos. Durante esse período, trabalhei de forma colaborativa e proativa para criar soluções eficientes e inovadoras no campo financeiro, contribuindo para aprimorar sistemas e proporcionar uma experiência de usuário aprimorada. Meu envolvimento incluiu a implementação de funcionalidades cruciais para otimizar processos e garantir a segurança das transações financeiras.<br>
-👩‍💻 Atualmente, desempenho a função de desenvolvedora frontend na Agência FG, onde sou responsável pela criação e manutenção de websites de e-commerce. Trabalho com diversas plataformas, incluindo Vtex IO, CMS, Linx, Wordpress, Tray, Wap Store, JET, Shopify, entre outras. Meu foco está na otimização para motores de busca (SEO) e performance.
+💻 Tenho experiência sólida no desenvolvimento <strong>front-end de aplicações financeiras</strong>, adquirida durante meu tempo na Ativa Investimentos. Durante esse período, trabalhei de forma colaborativa e proativa para criar soluções eficientes e inovadoras no campo financeiro, contribuindo para aprimorar sistemas e proporcionar uma experiência de usuário aprimorada. Meu envolvimento incluiu a implementação de funcionalidades cruciais para otimizar processos e garantir a segurança das transações financeiras.<br>
+👩‍💻 Atualmente, desempenho a função de desenvolvedora frontend na Agência FG, onde sou responsável pela <strong>criação e manutenção de websites de e-commerce</strong>. Trabalho com diversas plataformas, incluindo <strong>Vtex IO, CMS, Linx, Wordpress, Tray, Wap Store, JET, Shopify</strong>, entre outras. Meu foco está na otimização para motores de busca (SEO) e performance.
   
 ## Tecnologias que eu uso no meu dia:  
 

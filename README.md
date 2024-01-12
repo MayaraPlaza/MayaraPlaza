@@ -13,9 +13,13 @@ Sou uma <strong>desenvolvedora front-end</strong> apaixonada por transformar des
 🎓&nbsp; Formada desde 06/2023 em Analise e desenvolvimento de sistemas na UNINOVE e em 07/2023 iniciei Gestão em técnologia da informação com previsão de formação 12/2025 <br/>
 💻 Tenho experiência sólida no desenvolvimento <strong>front-end de aplicações financeiras</strong>, adquirida durante meu tempo na Ativa Investimentos. Durante esse período, trabalhei de forma colaborativa e proativa para criar soluções eficientes e inovadoras no campo financeiro, contribuindo para aprimorar sistemas e proporcionar uma experiência de usuário aprimorada. Meu envolvimento incluiu a implementação de funcionalidades cruciais para otimizar processos e garantir a segurança das transações financeiras.<br>
 👩‍💻 Atualmente, desempenho a função de desenvolvedora frontend na Agência FG, onde sou responsável pela <strong>criação e manutenção de websites de e-commerce</strong>. Trabalho com diversas plataformas, incluindo <strong>Vtex IO, CMS, Linx, Wordpress, Tray, Wap Store, JET, Shopify</strong>, entre outras. Meu foco está na otimização para motores de busca (SEO) e performance.
+
 <br><br>
-Tecnologias usadas: HTML, CSS, JavaScript, Sass, Bootstrap, Vuejs, Git, NodeJS, Bancos de dados relacionais e não relacionais / ReactJs, Markdown, PHP, liquid - Vtex IO e CMS, Linx, Wordpress, Shopify, Tray, Wap, analise de GA4 e Otimização para mecanismos de busca (SEO)
-  
+
+<strong>Tecnologias usadas:</strong> HTML, CSS, JavaScript, Sass, Bootstrap, Vuejs, Git, NodeJS, Bancos de dados relacionais e não relacionais / ReactJs, Markdown, PHP, liquid - Vtex IO e CMS, Linx, Wordpress, Shopify, Tray, Wap, analise de GA4 e Otimização para mecanismos de busca (SEO)
+<br><br>
+<strong>Gerenciamento de projetos:</strong> Scrum e Kanban<br>
+<strong>Ferramentas:</strong> Runrun.it, Planning Microsoft e Microsoft azure devops
 
 </div>
 

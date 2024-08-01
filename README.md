@@ -18,7 +18,7 @@ Sou uma <strong>desenvolvedora front-end</strong> apaixonada por transformar des
 
 <strong>Tecnologias usadas:</strong> HTML, CSS, JavaScript, Sass, Bootstrap, Vuejs, Git, NodeJS, Bancos de dados relacionais e não relacionais / ReactJs, Markdown, PHP, liquid, analise de GA4 e Otimização para mecanismos de busca (SEO)
 <br><br> 
-<strong>Plataformas Ecommerce: </strong>Vtex IO e CMS, Linx, Wordpress, Shopify, Tray, Wap
+<strong>Plataformas Ecommerce: </strong>Vtex IO e CMS, Linx, Wordpress, Shopify, Tray, Wap e Deco
 <br><br>
 <strong>Gerenciamento de projetos:</strong> Scrum e Kanban<br>
 <strong>Ferramentas:</strong> Runrun.it, Planning Microsoft e Microsoft azure devops

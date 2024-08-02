@@ -1,5 +1,5 @@
 <div align="center">      
-<h2>✨ Hello! My name is Mayara Plaza 🌸     </br></h2>               
+<h2>✨ Hello! My name is Mayara Plaza 🌸     </br></h2>                
                 
 I'm a front-end Developer working in Brasil, São Paulo.</br>         
        

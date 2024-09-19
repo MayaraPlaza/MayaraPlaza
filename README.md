@@ -3,8 +3,7 @@
                          
 I'm a front-end Developer working in Brasil, São Paulo.</br>              
        
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraplaza/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee) 
+
  </div>-->
 <div>
         <h1>Sobre Mim</h1>
@@ -20,5 +19,8 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
         <p><strong>Plataformas Ecommerce:</strong> Vtex IO e CMS, Linx, Wordpress, Shopify, Tray, Wap e Deco</p>
         <p><strong>Gerenciamento de projetos:</strong> Scrum e Kanban</p>
         <p><strong>Ferramentas:</strong> Runrun.it, Planning Microsoft e Microsoft Azure DevOps</p>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraplaza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macristinee) 
     </div>
  

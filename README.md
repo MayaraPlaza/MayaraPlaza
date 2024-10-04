@@ -3,7 +3,7 @@
                          
 I'm a front-end Developer working in Brasil, São Paulo.</br>              
        
- 
+   
  </div>-->  
 <div>  
         <h1>Sobre Mim</h1>  

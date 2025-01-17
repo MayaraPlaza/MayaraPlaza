@@ -1,9 +1,9 @@
-    <!--  
+   <!--  -->   
 <h2>✨ Hello! My name is Mayara Plaza 🌸     </br></h2>                      
                                      
 I'm a front-end Developer working in Brasil, São Paulo.</br>                    
                  
- </div>-->              
+ </div>            
 <div>           
         <h1>Sobre Mim</h1>     
         <p>Sou uma desenvolvedora front-end apaixonada por transformar designs criativos em experiências interativas e funcionais na web. Desenvolvendo desde 2021, tenho habilidades sólidas em HTML, CSS, JavaScript e frameworks como Vuejs e ReactJs, sempre trabalhando para criar interfaces responsivas e atraentes. Meu foco está na usabilidade e na criação de experiências intuitivas para os usuários, implementando as melhores práticas de SEO, design e colaborando estreitamente com equipes de design e back-end para alcançar resultados.</p> 
